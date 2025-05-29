@@ -4,7 +4,7 @@
 
 ---
 
-## Part 1 - Reimplementation of essential libc functions with the `ft_` prefix.
+## Part 1 - Reimplementation of essential libc functions
 
 | Function Name | Prototype | Description | External Functions Allowed |
 |---------------|------------|-------------|----------------------------|
@@ -34,7 +34,7 @@
 
 ---
 
-## Part 2 - Additional utility functions not present in the libc or implemented differently.
+## Part 2 - Additional utility functions not present in the libc or implemented differently
 
 | Function Name   | Prototype | Description | External Functions Allowed |
 |-----------------|------------|-------------|----------------------------|
@@ -52,7 +52,7 @@
 
 ---
 
-## Bonus Part - Implementation of linked list manipulation functions.
+## Bonus Part - Implementation of linked list manipulation functions
 
 | Function Name  | Prototype | Description | External Functions Allowed |
 |----------------|------------|-------------|----------------------------|
