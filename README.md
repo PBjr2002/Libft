@@ -1,16 +1,10 @@
 # Libft
 
-**Libft** is your very first personal C library project, designed to help you build a solid foundation in C programming by reimplementing commonly used libc functions and creating additional utility functions. This custom library will serve as a useful tool throughout your cursus by allowing you to better understand memory management, string manipulation, and linked lists, all while adhering to strict coding standards.
-
-The project is divided into three parts:
-
-- **Part 1:** Reimplementation of essential libc functions with the `ft_` prefix.
-- **Part 2:** Additional utility functions not present in the libc or implemented differently.
-- **Bonus Part:** Implementation of linked list manipulation functions.
+**Libft** was my very first personal C library project, aimed at helping me build a solid foundation in C programming by reimplementing commonly used libc functions and developing additional utility functions. This custom library served as a useful tool throughout my cursus, allowing me to deepen my understanding of memory management, string manipulation, and linked lists, all while adhering to strict coding standards.
 
 ---
 
-## Part 1 - Libc Functions
+## Part 1 - Reimplementation of essential libc functions with the `ft_` prefix.
 
 | Function Name | Prototype | Description | External Functions Allowed |
 |---------------|------------|-------------|----------------------------|
@@ -40,7 +34,7 @@ The project is divided into three parts:
 
 ---
 
-## Part 2 - Additional Functions
+## Part 2 - Additional utility functions not present in the libc or implemented differently.
 
 | Function Name   | Prototype | Description | External Functions Allowed |
 |-----------------|------------|-------------|----------------------------|
@@ -58,7 +52,7 @@ The project is divided into three parts:
 
 ---
 
-## Bonus Part - Linked List Functions
+## Bonus Part - Implementation of linked list manipulation functions.
 
 | Function Name  | Prototype | Description | External Functions Allowed |
 |----------------|------------|-------------|----------------------------|
